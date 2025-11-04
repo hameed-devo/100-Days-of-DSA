@@ -36,10 +36,5 @@ Solved 4 classic problems in Java as part of my daily DSA practice! 💪
 
 ---
 
-### 📸 Screenshots  
-I’ve added screenshots of my code for all 4 problems below for reference! ✏️✨  
-
----
-
 Excited to continue this daily streak and track my learning progress 🚀  
 #DSA #Java #LeetCode #GeeksforGeeks #ProblemSolving #100DaysOfCode #CodingJourney
